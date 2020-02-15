@@ -49,7 +49,7 @@ c. If the player without advantage wins they are back at deuce.
 # Run Application
 Step-1: Open "Android studio" then choose "Check out project from Version control"
 
-Step-2: From the options choose "Git", then provide the following url "https://github.com/2020-DEV-016/Tennis-Game.git" and tap on "Clone"
+Step-2: From the options choose "Git", then provide the following url "https://github.com/Karthick-Pandiyan/Tennis-Game-in-TDD.git" and tap on "Clone"
 
 Step-3: Once the checkout completes it should open up the project.
 
